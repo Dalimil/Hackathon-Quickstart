@@ -1,0 +1,4 @@
+[submodule "Flask-Quickstart"]
+	path = Flask-Quickstart
+	url = git://github.com/Dalimil/Flask-Quickstart.git
+	

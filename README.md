@@ -11,8 +11,8 @@
 
 ### Games
 
-* [`Canvas-Game-Quickstart` (currently in development)](https://github.com/Dalimil/Canvas-Game-Quickstart): JavaScript game template using HTML5 Canvas
+* [`Canvas-Game-Quickstart`](https://github.com/Dalimil/Canvas-Game-Quickstart): JavaScript 2D game template using HTML5 Canvas
 
 
 ## TODO
-- Use Git submodules
+- [ ] Use Git submodules

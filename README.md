@@ -22,9 +22,12 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 * [`Electron-Quickstart`](https://github.com/Dalimil/Electron-Quickstart): Cross platform desktop application template using the Electron framework
 
 
+<br><br>
+
 ## Setup
-Clone: ```git clone --recursive git@github.com:Dalimil/Hackathon-Quickstart.git```
-Update: ```git pull && git submodule update --init```
+**Clone**: ```git clone --recursive git@github.com:Dalimil/Hackathon-Quickstart.git```
+
+**Update**: ```git pull && git submodule update --init```
 
 ## _dev
 Repository maintenance: ```git submodule foreach git pull origin master```

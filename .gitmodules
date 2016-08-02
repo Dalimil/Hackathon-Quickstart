@@ -1,0 +1,15 @@
+[submodule "NodeJS-Quickstart"]
+	path = NodeJS-Quickstart
+	url = git@github.com:Dalimil/NodeJS-Quickstart.git
+[submodule "Python-Flask-Quickstart"]
+	path = Python-Flask-Quickstart
+	url = git@github.com:Dalimil/Python-Flask-Quickstart.git
+[submodule "Scala-Play-Quickstart"]
+	path = Scala-Play-Quickstart
+	url = git@github.com:Dalimil/Scala-Play-Quickstart.git
+[submodule "Canvas-Game-Quickstart"]
+	path = Canvas-Game-Quickstart
+	url = git@github.com:Dalimil/Canvas-Game-Quickstart.git
+[submodule "Electron-Quickstart"]
+	path = Electron-Quickstart
+	url = git@github.com:Dalimil/Electron-Quickstart.git

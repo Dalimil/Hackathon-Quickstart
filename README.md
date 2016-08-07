@@ -17,6 +17,8 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 
 * [`Canvas-Game-Quickstart`](https://github.com/Dalimil/Canvas-Game-Quickstart): JavaScript 2D game template using HTML5 Canvas
 
+* 3D Games and WebGL: Use [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) or [Unity](http://unity3d.com/). For JavaScript browser games, [three.js](http://threejs.org/) library is the best.
+
 ### Desktop Applications
 
 * [`Electron-Quickstart`](https://github.com/Dalimil/Electron-Quickstart): Cross platform desktop application template using the Electron framework

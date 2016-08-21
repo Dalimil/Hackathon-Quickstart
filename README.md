@@ -26,6 +26,8 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 
 * [`Electron-Quickstart`](https://github.com/Dalimil/Electron-Quickstart): Cross platform desktop application template using the Electron framework
 
+<br>
+
 ## Useful Links
 
 * [HTML5 UP!](https://html5up.net/) - Static website templates

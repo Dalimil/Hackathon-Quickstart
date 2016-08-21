@@ -34,9 +34,10 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 * [Free Bootstrap themes](http://bootswatch.com/) - Variations of the bootstrap.css file
 * [Bootstrap components](http://bootsnipp.com/) - Design elements and code snippets for Bootstrap, with reusable website components
 * [Materialize.CSS](http://materializecss.com/) - Use this for mobile-first native-app-like websites
-* [<a> link effects](http://tympanus.net/Development/CreativeLinkEffects/) - CSS styles for links (download the component.css file)
-* [Icon hover effects](http://tympanus.net/Development/IconHoverEffects/) - CSS styles for icons
 * [Button effects](http://tympanus.net/Development/CreativeButtons/) - CSS styles for buttons
+* [Link effects](http://tympanus.net/Development/CreativeLinkEffects/) - CSS styles for links (download the component.css file)
+* [Icon hover effects](http://tympanus.net/Development/IconHoverEffects/) - CSS styles for icons
+
 
 <br>
 

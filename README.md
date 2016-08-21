@@ -20,10 +20,21 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 
 * **3D Games and WebGL**: Use [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) or [Unity](http://unity3d.com/). For JavaScript browser games, [three.js](http://threejs.org/) library is the best.
 
+* **Free Game Assets**: [OpenGameArt.org](http://opengameart.org/collections) - especially useful for game music and sound effects.
+
 ### Desktop Applications
 
 * [`Electron-Quickstart`](https://github.com/Dalimil/Electron-Quickstart): Cross platform desktop application template using the Electron framework
 
+## Useful Links
+
+* [HTML5 UP!](https://html5up.net/) - Static website templates
+* [Free Bootstrap themes](http://bootswatch.com/) - Variations of the bootstrap.css file
+* [Bootstrap components](http://bootsnipp.com/) - Design elements and code snippets for Bootstrap, with reusable website components
+* [Materialize.CSS](http://materializecss.com/) - Use this for mobile-first native-app-like websites
+* [<a> link effects](http://tympanus.net/Development/CreativeLinkEffects/) - CSS styles for links (download the component.css file)
+* [Icon hover effects](http://tympanus.net/Development/IconHoverEffects/) - CSS styles for icons
+* [Button effects](http://tympanus.net/Development/CreativeButtons/) - CSS styles for buttons
 
 <br>
 

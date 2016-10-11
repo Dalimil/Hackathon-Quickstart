@@ -26,6 +26,12 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 
 * [`Electron-Quickstart`](https://github.com/Dalimil/Electron-Quickstart): Cross platform desktop application template using the Electron framework
 
+### Mobile Applications
+
+* If you are good at Android and/or iOS and can develop mobile apps for your platform quickly, stick to that. However, you might end up being the only person working on the app as there are not that many mobile devs at hackathons. 
+
+* [`Cordova`](https://cordova.apache.org/) + [`Framework7`](https://framework7.io/) is the best combo for hackathon mobile apps because it's all just JavaScript. Many people go for Ionic, which is fine if you like Angular, but I prefer Framework7 for its simplicity. You may not even need Framework7, if the UI is very simple...
+
 <br>
 
 ## Useful Links

@@ -36,6 +36,7 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 
 ## Frontend - Useful Links
 
+* [JetStrap](https://jetstrap.com/demo) - Bootstrap website generator (drag & drop components)
 * [Launchaco](http://launchaco.com/build/) - Static single-page website generator - (click to select components)
 * [HTML5 UP!](https://html5up.net/) - Static website templates
 * [Free Bootstrap themes](http://bootswatch.com/) - Variations of the bootstrap.css file

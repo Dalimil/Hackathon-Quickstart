@@ -39,10 +39,12 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 * [JetStrap](https://jetstrap.com/demo) - Bootstrap website generator (drag & drop components)
 * [Launchaco](http://launchaco.com/build/) - Static single-page website generator - (click to select components)
 * [HTML5 UP!](https://html5up.net/) - Static website templates
-* [Free Bootstrap themes](http://bootswatch.com/) - Variations of the bootstrap.css file
-* [Bootstrap components](http://bootsnipp.com/) - Design elements and code snippets for Bootstrap, with reusable website components
+* [Bootstrap Templates](http://www.creative-tim.com/) - Complete dashboards, single page apps, etc.
+* [Bootstrap Components](http://bootsnipp.com/) - Design elements and code snippets for Bootstrap, with reusable website components
+* [Bootstrap CSS Themes](http://bootswatch.com/) - Variations of the bootstrap.css file
 * [Materialize.CSS](http://materializecss.com/) - Use this for mobile-first native-app-like websites
-* [Button effects](http://tympanus.net/Development/CreativeButtons/) - CSS styles for buttons
+* [NProgress](https://github.com/rstacruz/nprogress) - YouTube-like progress bar
+* [Hover effects](http://ianlunn.github.io/Hover/) - CSS styles for buttons
 * [Link effects](http://tympanus.net/Development/CreativeLinkEffects/) - CSS styles for links (download the component.css file)
 * [Icon hover effects](http://tympanus.net/Development/IconHoverEffects/) - CSS styles for icons
 

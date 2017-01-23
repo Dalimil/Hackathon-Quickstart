@@ -13,3 +13,6 @@
 [submodule "Electron-Quickstart"]
 	path = Electron-Quickstart
 	url = git@github.com:Dalimil/Electron-Quickstart.git
+[submodule "React-Native-Quickstart"]
+	path = React-Native-Quickstart
+	url = git@github.com:Dalimil/React-Native-Quickstart.git

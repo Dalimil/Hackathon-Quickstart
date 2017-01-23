@@ -30,7 +30,9 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 
 * If you are good at Android and/or iOS and can develop mobile apps for your platform quickly, stick to that. However, you might end up being the only person working on the app as there are not that many mobile devs at hackathons. 
 
-* [`Cordova`](https://cordova.apache.org/) + [`Framework7`](https://framework7.io/) is the best combo for hackathon mobile apps because it's all just JavaScript. Many people go for Ionic, which is fine if you like Angular, but I prefer Framework7 for its simplicity. You may not even need Framework7, if the UI is very simple...
+* [`React-Native-Quickstart`](https://github.com/Dalimil/React-Native-Quickstart): Using [React Native](https://facebook.github.io/react-native/) is an option if you like JS and React, but the API excludes many parts of Android and you will likely spend a lot of time looking for 3rd party components or plugins.
+
+* [`Cordova`](https://cordova.apache.org/) allows you to create a hybrid app - combine web-like development in JavaScript with access to device APIs. For useful components and stylesheets use [Framework7](https://framework7.io/) or [Materialize.CSS](http://materializecss.com/). If you like Angular, use [Ionic](http://ionicframework.com/), which is an extra layer on top of Cordova.
 
 <br>
 
@@ -42,11 +44,9 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 * [Bootstrap Templates](http://www.creative-tim.com/) - Complete dashboards, single page apps, etc.
 * [Bootstrap Components](http://bootsnipp.com/) - Design elements and code snippets for Bootstrap, with reusable website components
 * [Bootstrap CSS Themes](http://bootswatch.com/) - Variations of the bootstrap.css file
-* [Materialize.CSS](http://materializecss.com/) - Use this for mobile-first native-app-like websites
 * [NProgress](https://github.com/rstacruz/nprogress) - YouTube-like progress bar
 * [Hover effects](http://ianlunn.github.io/Hover/) - CSS styles for buttons
 * [Link effects](http://tympanus.net/Development/CreativeLinkEffects/) - CSS styles for links (download the component.css file)
-* [Icon hover effects](http://tympanus.net/Development/IconHoverEffects/) - CSS styles for icons
 
 
 <br>

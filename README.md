@@ -9,6 +9,8 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 
 * [`NodeJS-Quickstart`](https://github.com/Dalimil/NodeJS-Quickstart): NodeJS web app template - influenced by [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter)
 
+* [`React-Quickstart`](https://github.com/Dalimil/React-Quickstart): Extended [create-react-app](https://github.com/facebookincubator/create-react-app) starter template for client-side apps.
+
 * [`Python-Flask-Quickstart`](https://github.com/Dalimil/Python-Flask-Quickstart): Python Flask web app template to quickly get started
 
 * [`Scala-Play-Quickstart`](https://github.com/Dalimil/Scala-Play-Quickstart): Scala web app template using the Play Framework

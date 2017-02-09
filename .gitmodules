@@ -16,3 +16,6 @@
 [submodule "React-Native-Quickstart"]
 	path = React-Native-Quickstart
 	url = git@github.com:Dalimil/React-Native-Quickstart.git
+[submodule "React-Quickstart"]
+	path = React-Quickstart
+	url = git@github.com:Dalimil/React-Quickstart.git

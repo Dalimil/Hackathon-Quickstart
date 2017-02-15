@@ -38,18 +38,21 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 
 <br>
 
-## Frontend - Useful Links
+## Templates & Components
 
 * [JetStrap](https://jetstrap.com/demo) - Bootstrap website generator (drag & drop components)
 * [Launchaco](http://launchaco.com/build/) - Static single-page website generator - (click to select components)
 * [HTML5 UP!](https://html5up.net/) - Static website templates
-* [Bootstrap Templates](http://www.creative-tim.com/) - Complete dashboards, single page apps, etc.
+* [Creative Tim](http://www.creative-tim.com/) - Bootstrap templates, complete dashboards, single page apps, etc.
 * [Bootstrap Components](http://bootsnipp.com/) - Design elements and code snippets for Bootstrap, with reusable website components
+
+## CSS
+
+* [Responsive Design Tutorial](https://internetingishard.com/html-and-css/responsive-design/) - Responsive Design: CSS Tutorial 
 * [Bootstrap CSS Themes](http://bootswatch.com/) - Variations of the bootstrap.css file
 * [NProgress](https://github.com/rstacruz/nprogress) - YouTube-like progress bar
 * [Hover effects](http://ianlunn.github.io/Hover/) - CSS styles for buttons
 * [Link effects](http://tympanus.net/Development/CreativeLinkEffects/) - CSS styles for links (download the component.css file)
-
 
 <br>
 

@@ -7,7 +7,7 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 
 ### Web Applications
 
-* [`NodeJS-Quickstart`](https://github.com/Dalimil/NodeJS-Quickstart): NodeJS web app template - influenced by [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter)
+* [`NodeJS-Quickstart`](https://github.com/Dalimil/NodeJS-Quickstart): NodeJS web app template - inspired by [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter)
 
 * [`React-Quickstart`](https://github.com/Dalimil/React-Quickstart): Extended [create-react-app](https://github.com/facebookincubator/create-react-app) starter template for client-side apps.
 
@@ -53,9 +53,7 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 ## CSS
 
 * [Responsive Design Tutorial](https://internetingishard.com/html-and-css/responsive-design/) - Responsive Design: CSS Tutorial 
-* [Bootstrap CSS Themes](http://bootswatch.com/) - Variations of the bootstrap.css file
 * [NProgress](https://github.com/rstacruz/nprogress) - YouTube-like progress bar
-* [Hover effects](http://ianlunn.github.io/Hover/) - CSS styles for buttons
 * [Link effects](http://tympanus.net/Development/CreativeLinkEffects/) - CSS styles for links (download the component.css file)
 
 <br>

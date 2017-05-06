@@ -34,17 +34,21 @@ Every boilerplate module contains code samples and useful snippets to enable fas
 
 * [`React-Native-Quickstart`](https://github.com/Dalimil/React-Native-Quickstart): Using [React Native](https://facebook.github.io/react-native/) is an option if you like JS and React, but the API excludes many parts of Android and you will likely spend a lot of time looking for 3rd party components or plugins.
 
-* [`Cordova`](https://cordova.apache.org/) allows you to create a hybrid app - combine web-like development in JavaScript with access to device APIs. For useful components and stylesheets use [Framework7](https://framework7.io/) or [Materialize.CSS](http://materializecss.com/). If you like Angular, use [Ionic](http://ionicframework.com/), which is an extra layer on top of Cordova.
+* [`Cordova`](https://cordova.apache.org/) allows you to create a hybrid app - combine web-like development in JavaScript with access to device APIs. For useful components and stylesheets use [Framework7](https://framework7.io/) or [Materialize.CSS](http://materializecss.com/) or [Propeller](http://propeller.in/templates/admin-dashboard/) for Material Design. If you like Angular, use [Ionic](http://ionicframework.com/), which is an extra layer on top of Cordova.
 
 <br>
 
 ## Templates & Components
 
-* [JetStrap](https://jetstrap.com/demo) - Bootstrap website generator (drag & drop components)
-* [Launchaco](http://launchaco.com/build/) - Static single-page website generator - (click to select components)
 * [HTML5 UP!](https://html5up.net/) - Static website templates
 * [Creative Tim](http://www.creative-tim.com/) - Bootstrap templates, complete dashboards, single page apps, etc.
 * [Bootstrap Components](http://bootsnipp.com/) - Design elements and code snippets for Bootstrap, with reusable website components
+* [WrapBootstrap](https://wrapbootstrap.com/) - More Bootstrap templates
+
+## Drag & Drop block generators
+
+* [Launchaco](http://launchaco.com/build/) - Static single-page website generator
+* [BootstrapBay](http://bootstrapbay.com/) has several: [Kit-A](http://bootstrapbay.com/preview/bootstrap-starter-kit-B51166C) or [Kit-B](http://bootstrapbay.com/preview/ultimate-blocks-bootstrap-theme-builder-B1559F1)
 
 ## CSS
 
